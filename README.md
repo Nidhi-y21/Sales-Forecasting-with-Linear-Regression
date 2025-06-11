@@ -1,5 +1,4 @@
-# Sales-Forecasting-with-Linear-Regression
-# Sales Forecast Analysis									
+# Sales-Forecasting-with-Linear-Regression									
 ## Overview									
 This project implements a time series analysis and forecasting system for sales data, providing both overall and product-wise revenue predictions.									
 									
